@@ -39,6 +39,7 @@ If i want to customise anything i can do that in tailwind.config
 I think it is gonna be easy when i get more practice but while doing this assignment i found `tailwindcss` little hard.
 Everything look different and had to search for every single thing.
 
+- Just published page and html is plan without css cant figure it out
  
 
 ## Attributions
