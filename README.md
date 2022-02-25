@@ -46,5 +46,5 @@ Everything look different and had to search for every single thing.
 - [tailwindcss](https://tailwindcss.com/docs/installation)
 - [Wikipedia](https://en.wikipedia.org/wiki/Studio_Ghibli#Works)
 
-- [GH repo]()
-- [GH pages]()
+- [GH repo](https://github.com/maryambkhan/cpnt201-a3)
+- [GH pages](https://maryambkhan.github.io/cpnt201-a3/)
