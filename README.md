@@ -31,15 +31,20 @@
 - Took me forever to align image in center 
 - Finaly found this :[stackOverflow](https://stackoverflow.com/questions/62347446/having-issues-trying-to-center-an-image-using-tailwinds-containers-invisible-p)
 - Was having trouble aligning cards checked my code again and again found i was missing div hehe
+- I was having problem with responsive card style so added break points it took me forever to fix becouse my `build` was broken again i was not able to see changes 
+it happen to me few times.
+- Dont know the reason?
+- While i was adding brekpoint did somer style tweeking
 
 4. **Basic**
 
 What my understanding is tailwind is for our convience they have preset classes for everything we can just use those.
 If i want to customise anything i can do that in tailwind.config
 I think it is gonna be easy when i get more practice but while doing this assignment i found `tailwindcss` little hard.
-Everything look different and had to search for every single thing.
+Everything looks different and had to search for every single thing.
 
 - Just published page and html is plan without css cant figure it out
+- Had wrong path
  
 
 ## Attributions
