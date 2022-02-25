@@ -51,6 +51,8 @@ Everything looks different and had to search for every single thing.
 
 - [tailwindcss](https://tailwindcss.com/docs/installation)
 - [Wikipedia](https://en.wikipedia.org/wiki/Studio_Ghibli#Works)
+- [remove node_modules](https://gist.github.com/maryambkhan/30d15f1162340ee747b86a191c50b8fc)
+
 
 - [GH repo](https://github.com/maryambkhan/cpnt201-a3)
 - [GH pages](https://maryambkhan.github.io/cpnt201-a3/)
